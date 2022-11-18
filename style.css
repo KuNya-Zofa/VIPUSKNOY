@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    color:#FFFF66;
+    background-color:#330033;
+    text-align:center;
+    font-size:30px;
+}
+
+img {
+    width: 100%;
+}
+
+.social img{
+    width:100px;
+    height:100px;
+}
+
+h1 {
+   color:#FFFF66; 
+}
+
+h1:hover {
+    color:red;
+    transition:2s ease-in;
+}
+
+a {
+    color:blueviolet;
+    text-decoration:none;
+}
+
+body:hover {
+    background-color:steelblue;
+    transition:5s ease-out;
+}
+
